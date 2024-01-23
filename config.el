@@ -234,4 +234,4 @@
 
 (global-set-key (kbd "<M-return>") 'restart-cognician-system)
 
-# testing
+;; testing
