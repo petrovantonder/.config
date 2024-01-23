@@ -1,1 +1,1 @@
-# .config
+# doom-config
